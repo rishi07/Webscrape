@@ -12,9 +12,16 @@ ps=soup(page_html,"html.parser")
 c=ps.tbody
 container=c.findAll("tr")
 
+text_file=open("contests.txt","w")
+
+
 print(len(container))
 
 for i in container:
-	print(i.td.a)
+	k=i.findAll("td")
+	for j in k:
+		text_file.write(str(j)+'\n')
+	text_file.write('\n')
+text_file.close()
 
 

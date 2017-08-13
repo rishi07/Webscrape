@@ -1,0 +1,20 @@
+<td>TETO2017</td>
+<td><a href="/TETO2017">Techtonic</a></td>
+<td class="start_date" data-starttime="2017-08-13T10:00:00+05:30">13 Aug 2017 <br> 10:00:00</br></td>
+<td class="end_date" data-endtime="2017-08-15T23:59:00+05:30">15 Aug 2017 <br> 23:59:00</br></td>
+
+<td>AUG17</td>
+<td><a href="/AUG17">August Long Challenge 2017</a></td>
+<td class="start_date" data-starttime="2017-08-04T15:00:00+05:30">04 Aug 2017 <br> 15:00:00</br></td>
+<td class="end_date" data-endtime="2017-08-18T15:00:00+05:30">18 Aug 2017 <br> 15:00:00</br></td>
+
+<td>IOIPRAC</td>
+<td><a href="/IOIPRAC">INOI Practice 2015</a></td>
+<td class="start_date" data-starttime="2016-01-05T00:00:00+05:30">05 Jan 2016 <br> 00:00:00</br></td>
+<td class="end_date" data-endtime="2018-01-05T00:00:00+05:30">05 Jan 2018 <br> 00:00:00</br></td>
+
+<td>ZCOPRAC</td>
+<td><a href="/ZCOPRAC">ZCO Practice Contest</a></td>
+<td class="start_date" data-starttime="2015-11-05T00:00:00+05:30">05 Nov 2015 <br> 00:00:00</br></td>
+<td class="end_date" data-endtime="2018-01-05T00:00:00+05:30">05 Jan 2018 <br> 00:00:00</br></td>
+
