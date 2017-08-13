@@ -20,7 +20,7 @@ print(len(container))
 for i in container:
 	k=i.findAll("td")
 	for j in k:
-		text_file.write(str(j)+'\n')
+		text_file.write(str(j.text)+'\n')
 	text_file.write('\n')
 text_file.close()
 
